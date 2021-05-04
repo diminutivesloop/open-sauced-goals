@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "microsoft/vscode",
+    "stargazers_count": 115390,
+    "open_issues_count": 5317,
+    "forks_count": 18754
+  },
+  {
     "full_name": "cli/cli",
     "stargazers_count": 23235,
     "open_issues_count": 340,
@@ -8,7 +14,7 @@
   {
     "full_name": "mdn/yari",
     "stargazers_count": 394,
-    "open_issues_count": 237,
+    "open_issues_count": 238,
     "forks_count": 109
   }
 ]
