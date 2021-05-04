@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "microsoft/TypeScript",
+    "stargazers_count": 70605,
+    "open_issues_count": 5190,
+    "forks_count": 9297
+  },
+  {
     "full_name": "storybookjs/storybook",
     "stargazers_count": 60988,
     "open_issues_count": 1184,
@@ -20,7 +26,7 @@
   {
     "full_name": "microsoft/vscode",
     "stargazers_count": 115391,
-    "open_issues_count": 5312,
+    "open_issues_count": 5313,
     "forks_count": 18754
   },
   {
