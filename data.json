@@ -1,8 +1,14 @@
 [
   {
+    "full_name": "VSCodeVim/Vim",
+    "stargazers_count": 8903,
+    "open_issues_count": 1048,
+    "forks_count": 942
+  },
+  {
     "full_name": "microsoft/vscode",
-    "stargazers_count": 115390,
-    "open_issues_count": 5317,
+    "stargazers_count": 115391,
+    "open_issues_count": 5312,
     "forks_count": 18754
   },
   {
