@@ -1,62 +1,62 @@
 [
   {
     "full_name": "discourse/discourse",
-    "stargazers_count": 33348,
-    "open_issues_count": 30,
-    "forks_count": 7248
+    "stargazers_count": 33356,
+    "open_issues_count": 31,
+    "forks_count": 7252
   },
   {
     "full_name": "ohmyzsh/ohmyzsh",
-    "stargazers_count": 128124,
-    "open_issues_count": 741,
-    "forks_count": 22107
+    "stargazers_count": 128202,
+    "open_issues_count": 744,
+    "forks_count": 22118
   },
   {
     "full_name": "scullyio/scully",
     "stargazers_count": 2163,
-    "open_issues_count": 100,
-    "forks_count": 220
+    "open_issues_count": 101,
+    "forks_count": 221
   },
   {
     "full_name": "microsoft/TypeScript",
-    "stargazers_count": 71313,
-    "open_issues_count": 5274,
-    "forks_count": 9354
+    "stargazers_count": 71372,
+    "open_issues_count": 5234,
+    "forks_count": 9359
   },
   {
     "full_name": "storybookjs/storybook",
-    "stargazers_count": 61997,
+    "stargazers_count": 62050,
     "open_issues_count": 1178,
     "forks_count": 6147
   },
   {
     "full_name": "Homebrew/brew",
-    "stargazers_count": 28046,
-    "open_issues_count": 53,
-    "forks_count": 6249
+    "stargazers_count": 28069,
+    "open_issues_count": 52,
+    "forks_count": 6259
   },
   {
     "full_name": "VSCodeVim/Vim",
-    "stargazers_count": 9012,
+    "stargazers_count": 9019,
     "open_issues_count": 1079,
-    "forks_count": 941
+    "forks_count": 945
   },
   {
     "full_name": "microsoft/vscode",
-    "stargazers_count": 116273,
-    "open_issues_count": 5362,
-    "forks_count": 18972
+    "stargazers_count": 116373,
+    "open_issues_count": 5370,
+    "forks_count": 18991
   },
   {
     "full_name": "cli/cli",
-    "stargazers_count": 23509,
-    "open_issues_count": 342,
-    "forks_count": 2362
+    "stargazers_count": 23543,
+    "open_issues_count": 341,
+    "forks_count": 2375
   },
   {
     "full_name": "mdn/yari",
-    "stargazers_count": 405,
+    "stargazers_count": 408,
     "open_issues_count": 235,
-    "forks_count": 116
+    "forks_count": 117
   }
 ]
