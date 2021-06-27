@@ -1,15 +1,15 @@
 [
   {
     "full_name": "discourse/discourse",
-    "stargazers_count": 33516,
-    "open_issues_count": 23,
-    "forks_count": 7282
+    "stargazers_count": 33522,
+    "open_issues_count": 24,
+    "forks_count": 7283
   },
   {
     "full_name": "ohmyzsh/ohmyzsh",
-    "stargazers_count": 129677,
-    "open_issues_count": 713,
-    "forks_count": 22275
+    "stargazers_count": 129701,
+    "open_issues_count": 717,
+    "forks_count": 22285
   },
   {
     "full_name": "scullyio/scully",
@@ -19,39 +19,39 @@
   },
   {
     "full_name": "microsoft/TypeScript",
-    "stargazers_count": 72316,
-    "open_issues_count": 4984,
-    "forks_count": 9459
+    "stargazers_count": 72344,
+    "open_issues_count": 4990,
+    "forks_count": 9463
   },
   {
     "full_name": "storybookjs/storybook",
-    "stargazers_count": 62906,
-    "open_issues_count": 1241,
-    "forks_count": 6253
+    "stargazers_count": 62918,
+    "open_issues_count": 1247,
+    "forks_count": 6255
   },
   {
     "full_name": "Homebrew/brew",
-    "stargazers_count": 28324,
-    "open_issues_count": 51,
-    "forks_count": 6364
+    "stargazers_count": 28329,
+    "open_issues_count": 52,
+    "forks_count": 6365
   },
   {
     "full_name": "VSCodeVim/Vim",
-    "stargazers_count": 9121,
-    "open_issues_count": 1118,
-    "forks_count": 958
+    "stargazers_count": 9128,
+    "open_issues_count": 1115,
+    "forks_count": 959
   },
   {
     "full_name": "microsoft/vscode",
-    "stargazers_count": 117700,
-    "open_issues_count": 5721,
-    "forks_count": 19204
+    "stargazers_count": 117740,
+    "open_issues_count": 5744,
+    "forks_count": 19209
   },
   {
     "full_name": "cli/cli",
-    "stargazers_count": 23831,
-    "open_issues_count": 358,
-    "forks_count": 2460
+    "stargazers_count": 23836,
+    "open_issues_count": 359,
+    "forks_count": 2468
   },
   {
     "full_name": "mdn/yari",
