@@ -1,62 +1,62 @@
 [
   {
     "full_name": "discourse/discourse",
-    "stargazers_count": 33759,
-    "open_issues_count": 20,
+    "stargazers_count": 33767,
+    "open_issues_count": 19,
     "forks_count": 7331
   },
   {
     "full_name": "ohmyzsh/ohmyzsh",
-    "stargazers_count": 131349,
-    "open_issues_count": 744,
-    "forks_count": 22501
+    "stargazers_count": 131385,
+    "open_issues_count": 745,
+    "forks_count": 22508
   },
   {
     "full_name": "scullyio/scully",
-    "stargazers_count": 2225,
+    "stargazers_count": 2226,
     "open_issues_count": 99,
     "forks_count": 226
   },
   {
     "full_name": "microsoft/TypeScript",
-    "stargazers_count": 73302,
-    "open_issues_count": 5115,
-    "forks_count": 9593
+    "stargazers_count": 73316,
+    "open_issues_count": 5107,
+    "forks_count": 9595
   },
   {
     "full_name": "storybookjs/storybook",
-    "stargazers_count": 63822,
-    "open_issues_count": 1352,
-    "forks_count": 6422
+    "stargazers_count": 63840,
+    "open_issues_count": 1347,
+    "forks_count": 6421
   },
   {
     "full_name": "Homebrew/brew",
-    "stargazers_count": 28688,
+    "stargazers_count": 28693,
     "open_issues_count": 67,
     "forks_count": 6487
   },
   {
     "full_name": "VSCodeVim/Vim",
-    "stargazers_count": 9303,
+    "stargazers_count": 9304,
     "open_issues_count": 1114,
-    "forks_count": 973
+    "forks_count": 975
   },
   {
     "full_name": "microsoft/vscode",
-    "stargazers_count": 119618,
-    "open_issues_count": 5949,
-    "forks_count": 19601
+    "stargazers_count": 119766,
+    "open_issues_count": 5965,
+    "forks_count": 19611
   },
   {
     "full_name": "cli/cli",
-    "stargazers_count": 24253,
-    "open_issues_count": 373,
-    "forks_count": 2593
+    "stargazers_count": 24262,
+    "open_issues_count": 375,
+    "forks_count": 2595
   },
   {
     "full_name": "mdn/yari",
-    "stargazers_count": 481,
-    "open_issues_count": 326,
+    "stargazers_count": 483,
+    "open_issues_count": 327,
     "forks_count": 151
   }
 ]
