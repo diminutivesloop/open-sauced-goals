@@ -1,15 +1,15 @@
 [
   {
     "full_name": "discourse/discourse",
-    "stargazers_count": 33908,
+    "stargazers_count": 33918,
     "open_issues_count": 24,
-    "forks_count": 7346
+    "forks_count": 7349
   },
   {
     "full_name": "ohmyzsh/ohmyzsh",
-    "stargazers_count": 132202,
-    "open_issues_count": 714,
-    "forks_count": 22631
+    "stargazers_count": 132238,
+    "open_issues_count": 715,
+    "forks_count": 22633
   },
   {
     "full_name": "scullyio/scully",
@@ -19,44 +19,44 @@
   },
   {
     "full_name": "microsoft/TypeScript",
-    "stargazers_count": 73769,
-    "open_issues_count": 5152,
-    "forks_count": 9648
+    "stargazers_count": 73787,
+    "open_issues_count": 5156,
+    "forks_count": 9652
   },
   {
     "full_name": "storybookjs/storybook",
-    "stargazers_count": 64312,
-    "open_issues_count": 1381,
-    "forks_count": 6473
+    "stargazers_count": 64321,
+    "open_issues_count": 1383,
+    "forks_count": 6476
   },
   {
     "full_name": "Homebrew/brew",
-    "stargazers_count": 28910,
-    "open_issues_count": 60,
-    "forks_count": 6553
+    "stargazers_count": 28923,
+    "open_issues_count": 58,
+    "forks_count": 6555
   },
   {
     "full_name": "VSCodeVim/Vim",
-    "stargazers_count": 9381,
-    "open_issues_count": 1141,
-    "forks_count": 985
+    "stargazers_count": 9384,
+    "open_issues_count": 1140,
+    "forks_count": 986
   },
   {
     "full_name": "microsoft/vscode",
-    "stargazers_count": 120616,
-    "open_issues_count": 6125,
-    "forks_count": 19796
+    "stargazers_count": 120646,
+    "open_issues_count": 6130,
+    "forks_count": 19795
   },
   {
     "full_name": "cli/cli",
-    "stargazers_count": 24849,
-    "open_issues_count": 378,
-    "forks_count": 2674
+    "stargazers_count": 25006,
+    "open_issues_count": 377,
+    "forks_count": 2680
   },
   {
     "full_name": "mdn/yari",
-    "stargazers_count": 543,
-    "open_issues_count": 305,
+    "stargazers_count": 544,
+    "open_issues_count": 306,
     "forks_count": 169
   }
 ]
