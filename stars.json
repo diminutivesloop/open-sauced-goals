@@ -1,21 +1,21 @@
 [
   {
     "full_name": "scottaohara/accessible_components",
-    "stargazers_count": 428,
+    "stargazers_count": 429,
     "open_issues_count": 0,
-    "forks_count": 8
+    "forks_count": 9
   },
   {
     "full_name": "accessibilitysupported/a11ysupport.io",
     "stargazers_count": 175,
-    "open_issues_count": 29,
+    "open_issues_count": 30,
     "forks_count": 20
   },
   {
     "full_name": "vercel/hyper",
-    "stargazers_count": 36624,
+    "stargazers_count": 36630,
     "open_issues_count": 747,
-    "forks_count": 3010
+    "forks_count": 3012
   },
   {
     "full_name": "springload/react-accessible-headings",
@@ -37,15 +37,15 @@
   },
   {
     "full_name": "stryker-mutator/stryker-js",
-    "stargazers_count": 1973,
+    "stargazers_count": 1975,
     "open_issues_count": 100,
-    "forks_count": 179
+    "forks_count": 180
   },
   {
     "full_name": "ramda/ramda",
-    "stargazers_count": 21077,
-    "open_issues_count": 326,
-    "forks_count": 1343
+    "stargazers_count": 21085,
+    "open_issues_count": 325,
+    "forks_count": 1344
   },
   {
     "full_name": "npm/documentation",
@@ -55,31 +55,31 @@
   },
   {
     "full_name": "google/zx",
-    "stargazers_count": 21769,
+    "stargazers_count": 21851,
     "open_issues_count": 5,
-    "forks_count": 409
+    "forks_count": 410
   },
   {
     "full_name": "open-sauced/open-sauced",
-    "stargazers_count": 482,
+    "stargazers_count": 483,
     "open_issues_count": 35,
     "forks_count": 138
   },
   {
     "full_name": "statelyai/xstate",
-    "stargazers_count": 17017,
-    "open_issues_count": 195,
-    "forks_count": 757
+    "stargazers_count": 17034,
+    "open_issues_count": 194,
+    "forks_count": 758
   },
   {
     "full_name": "MicrosoftEdge/MSEdgeExplainers",
-    "stargazers_count": 920,
+    "stargazers_count": 921,
     "open_issues_count": 67,
-    "forks_count": 126
+    "forks_count": 127
   },
   {
     "full_name": "davatron5000/awesome-standalones",
-    "stargazers_count": 732,
+    "stargazers_count": 733,
     "open_issues_count": 12,
     "forks_count": 26
   },
@@ -91,7 +91,7 @@
   },
   {
     "full_name": "tc39/proposal-built-in-modules",
-    "stargazers_count": 809,
+    "stargazers_count": 810,
     "open_issues_count": 41,
     "forks_count": 30
   },
@@ -103,26 +103,26 @@
   },
   {
     "full_name": "yairEO/tagify",
-    "stargazers_count": 2050,
+    "stargazers_count": 2052,
     "open_issues_count": 36,
     "forks_count": 324
   },
   {
     "full_name": "microsoft/Power-Fx",
-    "stargazers_count": 1816,
+    "stargazers_count": 1815,
     "open_issues_count": 20,
     "forks_count": 89
   },
   {
     "full_name": "apparition47/MailTrackerBlocker",
-    "stargazers_count": 985,
+    "stargazers_count": 984,
     "open_issues_count": 7,
     "forks_count": 23
   },
   {
     "full_name": "lobsters/lobsters",
-    "stargazers_count": 3030,
-    "open_issues_count": 143,
+    "stargazers_count": 3031,
+    "open_issues_count": 144,
     "forks_count": 670
   },
   {
@@ -133,7 +133,7 @@
   },
   {
     "full_name": "jvns/dns-lookup",
-    "stargazers_count": 177,
+    "stargazers_count": 178,
     "open_issues_count": 0,
     "forks_count": 7
   },
@@ -145,25 +145,25 @@
   },
   {
     "full_name": "typestack/class-validator",
-    "stargazers_count": 6423,
-    "open_issues_count": 259,
-    "forks_count": 493
+    "stargazers_count": 6428,
+    "open_issues_count": 261,
+    "forks_count": 495
   },
   {
     "full_name": "sharkdp/hyperfine",
-    "stargazers_count": 8529,
+    "stargazers_count": 8537,
     "open_issues_count": 17,
     "forks_count": 159
   },
   {
     "full_name": "shipshapecode/shepherd",
-    "stargazers_count": 9295,
-    "open_issues_count": 24,
+    "stargazers_count": 9296,
+    "open_issues_count": 23,
     "forks_count": 536
   },
   {
     "full_name": "nektos/act",
-    "stargazers_count": 16944,
+    "stargazers_count": 16985,
     "open_issues_count": 70,
     "forks_count": 451
   },
@@ -175,7 +175,7 @@
   },
   {
     "full_name": "webcompat/webcompat.com",
-    "stargazers_count": 253,
+    "stargazers_count": 252,
     "open_issues_count": 256,
     "forks_count": 183
   }
