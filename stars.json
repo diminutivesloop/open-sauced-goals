@@ -1,7 +1,7 @@
 [
   {
     "full_name": "keiya01/react-performance-testing",
-    "stargazers_count": 171,
+    "stargazers_count": 173,
     "open_issues_count": 5,
     "forks_count": 5
   },
@@ -13,14 +13,14 @@
   },
   {
     "full_name": "accessibilitysupported/a11ysupport.io",
-    "stargazers_count": 175,
+    "stargazers_count": 176,
     "open_issues_count": 31,
     "forks_count": 20
   },
   {
     "full_name": "vercel/hyper",
-    "stargazers_count": 36674,
-    "open_issues_count": 746,
+    "stargazers_count": 36701,
+    "open_issues_count": 748,
     "forks_count": 3017
   },
   {
@@ -31,8 +31,8 @@
   },
   {
     "full_name": "rcoh/angle-grinder",
-    "stargazers_count": 2109,
-    "open_issues_count": 22,
+    "stargazers_count": 2114,
+    "open_issues_count": 21,
     "forks_count": 47
   },
   {
@@ -49,9 +49,9 @@
   },
   {
     "full_name": "ramda/ramda",
-    "stargazers_count": 21115,
-    "open_issues_count": 328,
-    "forks_count": 1345
+    "stargazers_count": 21119,
+    "open_issues_count": 330,
+    "forks_count": 1346
   },
   {
     "full_name": "npm/documentation",
@@ -61,26 +61,26 @@
   },
   {
     "full_name": "google/zx",
-    "stargazers_count": 22322,
-    "open_issues_count": 5,
-    "forks_count": 421
+    "stargazers_count": 22462,
+    "open_issues_count": 6,
+    "forks_count": 426
   },
   {
     "full_name": "open-sauced/open-sauced",
     "stargazers_count": 485,
     "open_issues_count": 35,
-    "forks_count": 141
+    "forks_count": 140
   },
   {
     "full_name": "statelyai/xstate",
-    "stargazers_count": 17171,
-    "open_issues_count": 198,
-    "forks_count": 768
+    "stargazers_count": 17207,
+    "open_issues_count": 200,
+    "forks_count": 770
   },
   {
     "full_name": "MicrosoftEdge/MSEdgeExplainers",
-    "stargazers_count": 927,
-    "open_issues_count": 67,
+    "stargazers_count": 929,
+    "open_issues_count": 70,
     "forks_count": 128
   },
   {
@@ -91,15 +91,15 @@
   },
   {
     "full_name": "montagejs/collections",
-    "stargazers_count": 1957,
+    "stargazers_count": 1960,
     "open_issues_count": 71,
     "forks_count": 200
   },
   {
     "full_name": "tc39/proposal-built-in-modules",
-    "stargazers_count": 815,
+    "stargazers_count": 819,
     "open_issues_count": 41,
-    "forks_count": 30
+    "forks_count": 31
   },
   {
     "full_name": "eobrain/bajel",
@@ -109,8 +109,8 @@
   },
   {
     "full_name": "yairEO/tagify",
-    "stargazers_count": 2062,
-    "open_issues_count": 40,
+    "stargazers_count": 2064,
+    "open_issues_count": 39,
     "forks_count": 325
   },
   {
@@ -121,13 +121,13 @@
   },
   {
     "full_name": "apparition47/MailTrackerBlocker",
-    "stargazers_count": 987,
+    "stargazers_count": 988,
     "open_issues_count": 8,
     "forks_count": 23
   },
   {
     "full_name": "lobsters/lobsters",
-    "stargazers_count": 3038,
+    "stargazers_count": 3040,
     "open_issues_count": 143,
     "forks_count": 672
   },
@@ -151,31 +151,31 @@
   },
   {
     "full_name": "typestack/class-validator",
-    "stargazers_count": 6451,
+    "stargazers_count": 6465,
     "open_issues_count": 264,
-    "forks_count": 497
+    "forks_count": 498
   },
   {
     "full_name": "sharkdp/hyperfine",
-    "stargazers_count": 8574,
+    "stargazers_count": 8577,
     "open_issues_count": 19,
     "forks_count": 159
   },
   {
     "full_name": "shipshapecode/shepherd",
-    "stargazers_count": 9307,
+    "stargazers_count": 9308,
     "open_issues_count": 24,
     "forks_count": 537
   },
   {
     "full_name": "nektos/act",
-    "stargazers_count": 17189,
-    "open_issues_count": 71,
-    "forks_count": 456
+    "stargazers_count": 17290,
+    "open_issues_count": 79,
+    "forks_count": 461
   },
   {
     "full_name": "dspinellis/unix-history-repo",
-    "stargazers_count": 4785,
+    "stargazers_count": 4787,
     "open_issues_count": 0,
     "forks_count": 383
   }
