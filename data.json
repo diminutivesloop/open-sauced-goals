@@ -1,62 +1,62 @@
 [
   {
     "full_name": "discourse/discourse",
-    "stargazers_count": 34023,
-    "open_issues_count": 29,
+    "stargazers_count": 34028,
+    "open_issues_count": 20,
     "forks_count": 7361
   },
   {
     "full_name": "ohmyzsh/ohmyzsh",
-    "stargazers_count": 132877,
+    "stargazers_count": 132929,
     "open_issues_count": 697,
-    "forks_count": 22720
+    "forks_count": 22732
   },
   {
     "full_name": "scullyio/scully",
-    "stargazers_count": 2256,
+    "stargazers_count": 2259,
     "open_issues_count": 101,
     "forks_count": 230
   },
   {
     "full_name": "microsoft/TypeScript",
-    "stargazers_count": 74208,
-    "open_issues_count": 5207,
-    "forks_count": 9723
+    "stargazers_count": 74243,
+    "open_issues_count": 5218,
+    "forks_count": 9729
   },
   {
     "full_name": "storybookjs/storybook",
-    "stargazers_count": 64726,
-    "open_issues_count": 1421,
+    "stargazers_count": 64754,
+    "open_issues_count": 1416,
     "forks_count": 6530
   },
   {
     "full_name": "Homebrew/brew",
-    "stargazers_count": 29113,
-    "open_issues_count": 63,
-    "forks_count": 6617
+    "stargazers_count": 29122,
+    "open_issues_count": 53,
+    "forks_count": 6622
   },
   {
     "full_name": "VSCodeVim/Vim",
-    "stargazers_count": 9445,
-    "open_issues_count": 1149,
-    "forks_count": 992
+    "stargazers_count": 9452,
+    "open_issues_count": 1152,
+    "forks_count": 991
   },
   {
     "full_name": "microsoft/vscode",
-    "stargazers_count": 121298,
-    "open_issues_count": 6300,
-    "forks_count": 19960
+    "stargazers_count": 121360,
+    "open_issues_count": 6290,
+    "forks_count": 19971
   },
   {
     "full_name": "cli/cli",
-    "stargazers_count": 25342,
-    "open_issues_count": 384,
-    "forks_count": 2749
+    "stargazers_count": 25357,
+    "open_issues_count": 380,
+    "forks_count": 2752
   },
   {
     "full_name": "mdn/yari",
     "stargazers_count": 555,
     "open_issues_count": 309,
-    "forks_count": 177
+    "forks_count": 178
   }
 ]
