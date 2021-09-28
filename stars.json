@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "cesanta/elk",
+    "stargazers_count": 1059,
+    "open_issues_count": 1,
+    "forks_count": 34
+  },
+  {
     "full_name": "keiya01/react-performance-testing",
     "stargazers_count": 174,
     "open_issues_count": 5,
@@ -7,91 +13,91 @@
   },
   {
     "full_name": "scottaohara/accessible_components",
-    "stargazers_count": 432,
+    "stargazers_count": 433,
     "open_issues_count": 0,
     "forks_count": 9
   },
   {
     "full_name": "accessibilitysupported/a11ysupport.io",
     "stargazers_count": 175,
-    "open_issues_count": 34,
+    "open_issues_count": 35,
     "forks_count": 20
   },
   {
     "full_name": "vercel/hyper",
-    "stargazers_count": 36827,
+    "stargazers_count": 36846,
     "open_issues_count": 748,
     "forks_count": 3031
   },
   {
     "full_name": "springload/react-accessible-headings",
-    "stargazers_count": 19,
+    "stargazers_count": 20,
     "open_issues_count": 0,
     "forks_count": 1
   },
   {
     "full_name": "rcoh/angle-grinder",
-    "stargazers_count": 2147,
+    "stargazers_count": 2152,
     "open_issues_count": 21,
     "forks_count": 48
   },
   {
     "full_name": "true-myth/true-myth",
     "stargazers_count": 403,
-    "open_issues_count": 16,
+    "open_issues_count": 17,
     "forks_count": 15
   },
   {
     "full_name": "stryker-mutator/stryker-js",
-    "stargazers_count": 1990,
-    "open_issues_count": 84,
+    "stargazers_count": 1993,
+    "open_issues_count": 85,
     "forks_count": 182
   },
   {
     "full_name": "ramda/ramda",
-    "stargazers_count": 21190,
+    "stargazers_count": 21210,
     "open_issues_count": 333,
     "forks_count": 1348
   },
   {
     "full_name": "npm/documentation",
     "stargazers_count": 20,
-    "open_issues_count": 4,
-    "forks_count": 9
+    "open_issues_count": 5,
+    "forks_count": 10
   },
   {
     "full_name": "google/zx",
-    "stargazers_count": 22975,
+    "stargazers_count": 23028,
     "open_issues_count": 12,
-    "forks_count": 442
+    "forks_count": 444
   },
   {
     "full_name": "open-sauced/open-sauced",
     "stargazers_count": 490,
-    "open_issues_count": 32,
-    "forks_count": 140
+    "open_issues_count": 33,
+    "forks_count": 142
   },
   {
     "full_name": "statelyai/xstate",
-    "stargazers_count": 17406,
-    "open_issues_count": 210,
-    "forks_count": 783
+    "stargazers_count": 17425,
+    "open_issues_count": 212,
+    "forks_count": 785
   },
   {
     "full_name": "MicrosoftEdge/MSEdgeExplainers",
-    "stargazers_count": 939,
+    "stargazers_count": 940,
     "open_issues_count": 72,
     "forks_count": 132
   },
   {
     "full_name": "davatron5000/awesome-standalones",
-    "stargazers_count": 738,
+    "stargazers_count": 739,
     "open_issues_count": 12,
     "forks_count": 26
   },
   {
     "full_name": "montagejs/collections",
-    "stargazers_count": 1960,
+    "stargazers_count": 1961,
     "open_issues_count": 71,
     "forks_count": 200
   },
@@ -109,27 +115,27 @@
   },
   {
     "full_name": "yairEO/tagify",
-    "stargazers_count": 2090,
-    "open_issues_count": 32,
+    "stargazers_count": 2095,
+    "open_issues_count": 31,
     "forks_count": 327
   },
   {
     "full_name": "microsoft/Power-Fx",
-    "stargazers_count": 1818,
+    "stargazers_count": 1835,
     "open_issues_count": 20,
     "forks_count": 91
   },
   {
     "full_name": "apparition47/MailTrackerBlocker",
-    "stargazers_count": 989,
-    "open_issues_count": 10,
+    "stargazers_count": 988,
+    "open_issues_count": 12,
     "forks_count": 23
   },
   {
     "full_name": "lobsters/lobsters",
-    "stargazers_count": 3051,
-    "open_issues_count": 149,
-    "forks_count": 672
+    "stargazers_count": 3055,
+    "open_issues_count": 150,
+    "forks_count": 674
   },
   {
     "full_name": "getify/eslint-plugin-proper-ternary",
@@ -139,7 +145,7 @@
   },
   {
     "full_name": "jvns/dns-lookup",
-    "stargazers_count": 182,
+    "stargazers_count": 184,
     "open_issues_count": 0,
     "forks_count": 7
   },
@@ -151,32 +157,26 @@
   },
   {
     "full_name": "typestack/class-validator",
-    "stargazers_count": 6547,
+    "stargazers_count": 6562,
     "open_issues_count": 271,
-    "forks_count": 503
+    "forks_count": 504
   },
   {
     "full_name": "sharkdp/hyperfine",
-    "stargazers_count": 8675,
+    "stargazers_count": 8681,
     "open_issues_count": 20,
     "forks_count": 160
   },
   {
     "full_name": "shipshapecode/shepherd",
-    "stargazers_count": 9330,
-    "open_issues_count": 25,
+    "stargazers_count": 9328,
+    "open_issues_count": 26,
     "forks_count": 539
   },
   {
     "full_name": "nektos/act",
-    "stargazers_count": 17764,
-    "open_issues_count": 80,
+    "stargazers_count": 17826,
+    "open_issues_count": 71,
     "forks_count": 471
-  },
-  {
-    "full_name": "dspinellis/unix-history-repo",
-    "stargazers_count": 4798,
-    "open_issues_count": 0,
-    "forks_count": 384
   }
 ]
