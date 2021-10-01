@@ -1,62 +1,62 @@
 [
   {
     "full_name": "discourse/discourse",
-    "stargazers_count": 34151,
+    "stargazers_count": 34162,
     "open_issues_count": 28,
-    "forks_count": 7384
+    "forks_count": 7388
   },
   {
     "full_name": "ohmyzsh/ohmyzsh",
-    "stargazers_count": 133475,
-    "open_issues_count": 673,
-    "forks_count": 22798
+    "stargazers_count": 133562,
+    "open_issues_count": 667,
+    "forks_count": 22811
   },
   {
     "full_name": "scullyio/scully",
-    "stargazers_count": 2272,
+    "stargazers_count": 2274,
     "open_issues_count": 102,
     "forks_count": 230
   },
   {
     "full_name": "microsoft/TypeScript",
-    "stargazers_count": 74577,
-    "open_issues_count": 5292,
-    "forks_count": 9792
+    "stargazers_count": 74614,
+    "open_issues_count": 5279,
+    "forks_count": 9795
   },
   {
     "full_name": "storybookjs/storybook",
-    "stargazers_count": 64995,
-    "open_issues_count": 1471,
-    "forks_count": 6581
+    "stargazers_count": 65038,
+    "open_issues_count": 1476,
+    "forks_count": 6582
   },
   {
     "full_name": "Homebrew/brew",
-    "stargazers_count": 29259,
+    "stargazers_count": 29273,
     "open_issues_count": 51,
-    "forks_count": 6680
+    "forks_count": 6687
   },
   {
     "full_name": "VSCodeVim/Vim",
-    "stargazers_count": 9493,
-    "open_issues_count": 1162,
+    "stargazers_count": 9498,
+    "open_issues_count": 1163,
     "forks_count": 994
   },
   {
     "full_name": "microsoft/vscode",
-    "stargazers_count": 121905,
-    "open_issues_count": 6337,
-    "forks_count": 20116
+    "stargazers_count": 122005,
+    "open_issues_count": 6324,
+    "forks_count": 20185
   },
   {
     "full_name": "cli/cli",
-    "stargazers_count": 25554,
+    "stargazers_count": 25590,
     "open_issues_count": 386,
-    "forks_count": 2801
+    "forks_count": 2810
   },
   {
     "full_name": "mdn/yari",
-    "stargazers_count": 565,
+    "stargazers_count": 567,
     "open_issues_count": 316,
-    "forks_count": 187
+    "forks_count": 186
   }
 ]
