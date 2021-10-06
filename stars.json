@@ -7,7 +7,7 @@
   },
   {
     "full_name": "cesanta/elk",
-    "stargazers_count": 1133,
+    "stargazers_count": 1136,
     "open_issues_count": 0,
     "forks_count": 35
   },
@@ -33,7 +33,7 @@
     "full_name": "vercel/hyper",
     "stargazers_count": 36890,
     "open_issues_count": 720,
-    "forks_count": 3035
+    "forks_count": 3036
   },
   {
     "full_name": "springload/react-accessible-headings",
@@ -43,7 +43,7 @@
   },
   {
     "full_name": "rcoh/angle-grinder",
-    "stargazers_count": 2160,
+    "stargazers_count": 2163,
     "open_issues_count": 22,
     "forks_count": 48
   },
@@ -56,8 +56,8 @@
   {
     "full_name": "stryker-mutator/stryker-js",
     "stargazers_count": 2004,
-    "open_issues_count": 91,
-    "forks_count": 182
+    "open_issues_count": 90,
+    "forks_count": 183
   },
   {
     "full_name": "ramda/ramda",
@@ -68,14 +68,14 @@
   {
     "full_name": "npm/documentation",
     "stargazers_count": 21,
-    "open_issues_count": 5,
+    "open_issues_count": 4,
     "forks_count": 10
   },
   {
     "full_name": "google/zx",
-    "stargazers_count": 23116,
+    "stargazers_count": 23129,
     "open_issues_count": 7,
-    "forks_count": 446
+    "forks_count": 449
   },
   {
     "full_name": "open-sauced/open-sauced",
@@ -85,13 +85,13 @@
   },
   {
     "full_name": "statelyai/xstate",
-    "stargazers_count": 17468,
-    "open_issues_count": 213,
+    "stargazers_count": 17480,
+    "open_issues_count": 214,
     "forks_count": 788
   },
   {
     "full_name": "MicrosoftEdge/MSEdgeExplainers",
-    "stargazers_count": 942,
+    "stargazers_count": 943,
     "open_issues_count": 76,
     "forks_count": 133
   },
@@ -127,14 +127,14 @@
   },
   {
     "full_name": "microsoft/Power-Fx",
-    "stargazers_count": 1838,
+    "stargazers_count": 1837,
     "open_issues_count": 20,
     "forks_count": 92
   },
   {
     "full_name": "apparition47/MailTrackerBlocker",
     "stargazers_count": 989,
-    "open_issues_count": 11,
+    "open_issues_count": 10,
     "forks_count": 23
   },
   {
@@ -163,19 +163,19 @@
   },
   {
     "full_name": "typestack/class-validator",
-    "stargazers_count": 6593,
+    "stargazers_count": 6594,
     "open_issues_count": 276,
     "forks_count": 504
   },
   {
     "full_name": "sharkdp/hyperfine",
-    "stargazers_count": 8715,
+    "stargazers_count": 8721,
     "open_issues_count": 26,
     "forks_count": 162
   },
   {
     "full_name": "shipshapecode/shepherd",
-    "stargazers_count": 9335,
+    "stargazers_count": 9336,
     "open_issues_count": 27,
     "forks_count": 540
   }
