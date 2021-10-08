@@ -1,19 +1,19 @@
 [
   {
     "full_name": "ossf/oss-vulnerability-guide",
-    "stargazers_count": 28,
+    "stargazers_count": 29,
     "open_issues_count": 5,
     "forks_count": 9
   },
   {
     "full_name": "cesanta/elk",
-    "stargazers_count": 1136,
+    "stargazers_count": 1145,
     "open_issues_count": 0,
-    "forks_count": 35
+    "forks_count": 36
   },
   {
     "full_name": "keiya01/react-performance-testing",
-    "stargazers_count": 176,
+    "stargazers_count": 177,
     "open_issues_count": 6,
     "forks_count": 5
   },
@@ -26,14 +26,14 @@
   {
     "full_name": "accessibilitysupported/a11ysupport.io",
     "stargazers_count": 177,
-    "open_issues_count": 35,
+    "open_issues_count": 36,
     "forks_count": 20
   },
   {
     "full_name": "vercel/hyper",
-    "stargazers_count": 36890,
+    "stargazers_count": 36901,
     "open_issues_count": 720,
-    "forks_count": 3036
+    "forks_count": 3041
   },
   {
     "full_name": "springload/react-accessible-headings",
@@ -43,7 +43,7 @@
   },
   {
     "full_name": "rcoh/angle-grinder",
-    "stargazers_count": 2163,
+    "stargazers_count": 2167,
     "open_issues_count": 22,
     "forks_count": 48
   },
@@ -55,15 +55,15 @@
   },
   {
     "full_name": "stryker-mutator/stryker-js",
-    "stargazers_count": 2004,
-    "open_issues_count": 90,
+    "stargazers_count": 2006,
+    "open_issues_count": 87,
     "forks_count": 183
   },
   {
     "full_name": "ramda/ramda",
-    "stargazers_count": 21223,
+    "stargazers_count": 21225,
     "open_issues_count": 332,
-    "forks_count": 1351
+    "forks_count": 1353
   },
   {
     "full_name": "npm/documentation",
@@ -73,27 +73,27 @@
   },
   {
     "full_name": "google/zx",
-    "stargazers_count": 23129,
+    "stargazers_count": 23162,
     "open_issues_count": 7,
-    "forks_count": 449
+    "forks_count": 450
   },
   {
     "full_name": "open-sauced/open-sauced",
-    "stargazers_count": 493,
+    "stargazers_count": 495,
     "open_issues_count": 32,
-    "forks_count": 143
+    "forks_count": 144
   },
   {
     "full_name": "statelyai/xstate",
-    "stargazers_count": 17480,
-    "open_issues_count": 214,
-    "forks_count": 788
+    "stargazers_count": 17497,
+    "open_issues_count": 215,
+    "forks_count": 790
   },
   {
     "full_name": "MicrosoftEdge/MSEdgeExplainers",
-    "stargazers_count": 943,
+    "stargazers_count": 944,
     "open_issues_count": 76,
-    "forks_count": 133
+    "forks_count": 134
   },
   {
     "full_name": "davatron5000/awesome-standalones",
@@ -103,7 +103,7 @@
   },
   {
     "full_name": "montagejs/collections",
-    "stargazers_count": 1963,
+    "stargazers_count": 1964,
     "open_issues_count": 71,
     "forks_count": 200
   },
@@ -121,26 +121,26 @@
   },
   {
     "full_name": "yairEO/tagify",
-    "stargazers_count": 2101,
+    "stargazers_count": 2102,
     "open_issues_count": 31,
     "forks_count": 327
   },
   {
     "full_name": "microsoft/Power-Fx",
-    "stargazers_count": 1837,
+    "stargazers_count": 1838,
     "open_issues_count": 20,
     "forks_count": 92
   },
   {
     "full_name": "apparition47/MailTrackerBlocker",
-    "stargazers_count": 989,
-    "open_issues_count": 10,
+    "stargazers_count": 990,
+    "open_issues_count": 11,
     "forks_count": 23
   },
   {
     "full_name": "lobsters/lobsters",
-    "stargazers_count": 3068,
-    "open_issues_count": 146,
+    "stargazers_count": 3070,
+    "open_issues_count": 147,
     "forks_count": 675
   },
   {
@@ -151,7 +151,7 @@
   },
   {
     "full_name": "jvns/dns-lookup",
-    "stargazers_count": 190,
+    "stargazers_count": 191,
     "open_issues_count": 0,
     "forks_count": 7
   },
@@ -163,15 +163,15 @@
   },
   {
     "full_name": "typestack/class-validator",
-    "stargazers_count": 6594,
+    "stargazers_count": 6604,
     "open_issues_count": 276,
     "forks_count": 504
   },
   {
     "full_name": "sharkdp/hyperfine",
-    "stargazers_count": 8721,
-    "open_issues_count": 26,
-    "forks_count": 162
+    "stargazers_count": 8733,
+    "open_issues_count": 27,
+    "forks_count": 163
   },
   {
     "full_name": "shipshapecode/shepherd",
