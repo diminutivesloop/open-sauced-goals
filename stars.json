@@ -7,7 +7,7 @@
   },
   {
     "full_name": "cesanta/elk",
-    "stargazers_count": 1145,
+    "stargazers_count": 1149,
     "open_issues_count": 0,
     "forks_count": 36
   },
@@ -19,21 +19,21 @@
   },
   {
     "full_name": "scottaohara/accessible_components",
-    "stargazers_count": 433,
+    "stargazers_count": 434,
     "open_issues_count": 0,
     "forks_count": 9
   },
   {
     "full_name": "accessibilitysupported/a11ysupport.io",
     "stargazers_count": 177,
-    "open_issues_count": 36,
+    "open_issues_count": 34,
     "forks_count": 20
   },
   {
     "full_name": "vercel/hyper",
-    "stargazers_count": 36901,
+    "stargazers_count": 36916,
     "open_issues_count": 720,
-    "forks_count": 3041
+    "forks_count": 3042
   },
   {
     "full_name": "springload/react-accessible-headings",
@@ -55,15 +55,15 @@
   },
   {
     "full_name": "stryker-mutator/stryker-js",
-    "stargazers_count": 2006,
-    "open_issues_count": 87,
+    "stargazers_count": 2007,
+    "open_issues_count": 86,
     "forks_count": 183
   },
   {
     "full_name": "ramda/ramda",
-    "stargazers_count": 21225,
+    "stargazers_count": 21228,
     "open_issues_count": 332,
-    "forks_count": 1353
+    "forks_count": 1354
   },
   {
     "full_name": "npm/documentation",
@@ -73,21 +73,21 @@
   },
   {
     "full_name": "google/zx",
-    "stargazers_count": 23162,
+    "stargazers_count": 23180,
     "open_issues_count": 7,
-    "forks_count": 450
+    "forks_count": 449
   },
   {
     "full_name": "open-sauced/open-sauced",
-    "stargazers_count": 495,
+    "stargazers_count": 494,
     "open_issues_count": 32,
     "forks_count": 144
   },
   {
     "full_name": "statelyai/xstate",
-    "stargazers_count": 17497,
-    "open_issues_count": 215,
-    "forks_count": 790
+    "stargazers_count": 17511,
+    "open_issues_count": 216,
+    "forks_count": 791
   },
   {
     "full_name": "MicrosoftEdge/MSEdgeExplainers",
@@ -121,7 +121,7 @@
   },
   {
     "full_name": "yairEO/tagify",
-    "stargazers_count": 2102,
+    "stargazers_count": 2103,
     "open_issues_count": 31,
     "forks_count": 327
   },
@@ -163,19 +163,19 @@
   },
   {
     "full_name": "typestack/class-validator",
-    "stargazers_count": 6604,
-    "open_issues_count": 276,
-    "forks_count": 504
+    "stargazers_count": 6609,
+    "open_issues_count": 275,
+    "forks_count": 505
   },
   {
     "full_name": "sharkdp/hyperfine",
-    "stargazers_count": 8733,
+    "stargazers_count": 8738,
     "open_issues_count": 27,
-    "forks_count": 163
+    "forks_count": 164
   },
   {
     "full_name": "shipshapecode/shepherd",
-    "stargazers_count": 9336,
+    "stargazers_count": 9338,
     "open_issues_count": 27,
     "forks_count": 540
   }
