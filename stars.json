@@ -7,7 +7,7 @@
   },
   {
     "full_name": "cesanta/elk",
-    "stargazers_count": 1157,
+    "stargazers_count": 1160,
     "open_issues_count": 1,
     "forks_count": 38
   },
@@ -31,9 +31,9 @@
   },
   {
     "full_name": "vercel/hyper",
-    "stargazers_count": 36990,
+    "stargazers_count": 36999,
     "open_issues_count": 719,
-    "forks_count": 3052
+    "forks_count": 3054
   },
   {
     "full_name": "springload/react-accessible-headings",
@@ -55,14 +55,14 @@
   },
   {
     "full_name": "stryker-mutator/stryker-js",
-    "stargazers_count": 2009,
-    "open_issues_count": 89,
+    "stargazers_count": 2011,
+    "open_issues_count": 88,
     "forks_count": 185
   },
   {
     "full_name": "ramda/ramda",
-    "stargazers_count": 21252,
-    "open_issues_count": 335,
+    "stargazers_count": 21258,
+    "open_issues_count": 334,
     "forks_count": 1356
   },
   {
@@ -73,25 +73,25 @@
   },
   {
     "full_name": "google/zx",
-    "stargazers_count": 23243,
-    "open_issues_count": 7,
+    "stargazers_count": 23249,
+    "open_issues_count": 6,
     "forks_count": 453
   },
   {
     "full_name": "open-sauced/open-sauced",
     "stargazers_count": 497,
-    "open_issues_count": 28,
+    "open_issues_count": 25,
     "forks_count": 144
   },
   {
     "full_name": "statelyai/xstate",
-    "stargazers_count": 17577,
-    "open_issues_count": 218,
+    "stargazers_count": 17586,
+    "open_issues_count": 215,
     "forks_count": 796
   },
   {
     "full_name": "MicrosoftEdge/MSEdgeExplainers",
-    "stargazers_count": 945,
+    "stargazers_count": 946,
     "open_issues_count": 75,
     "forks_count": 136
   },
@@ -127,19 +127,19 @@
   },
   {
     "full_name": "microsoft/Power-Fx",
-    "stargazers_count": 1842,
+    "stargazers_count": 1843,
     "open_issues_count": 20,
     "forks_count": 92
   },
   {
     "full_name": "apparition47/MailTrackerBlocker",
-    "stargazers_count": 989,
+    "stargazers_count": 987,
     "open_issues_count": 10,
     "forks_count": 23
   },
   {
     "full_name": "lobsters/lobsters",
-    "stargazers_count": 3075,
+    "stargazers_count": 3076,
     "open_issues_count": 148,
     "forks_count": 674
   },
@@ -151,7 +151,7 @@
   },
   {
     "full_name": "jvns/dns-lookup",
-    "stargazers_count": 193,
+    "stargazers_count": 194,
     "open_issues_count": 0,
     "forks_count": 7
   },
@@ -163,20 +163,20 @@
   },
   {
     "full_name": "typestack/class-validator",
-    "stargazers_count": 6640,
-    "open_issues_count": 278,
+    "stargazers_count": 6642,
+    "open_issues_count": 279,
     "forks_count": 504
   },
   {
     "full_name": "sharkdp/hyperfine",
-    "stargazers_count": 8764,
+    "stargazers_count": 8768,
     "open_issues_count": 29,
     "forks_count": 167
   },
   {
     "full_name": "shipshapecode/shepherd",
-    "stargazers_count": 9352,
+    "stargazers_count": 9355,
     "open_issues_count": 29,
-    "forks_count": 540
+    "forks_count": 541
   }
 ]
