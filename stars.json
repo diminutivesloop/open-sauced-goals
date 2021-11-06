@@ -7,7 +7,7 @@
   },
   {
     "full_name": "sbmpost/AutoRaise",
-    "stargazers_count": 231,
+    "stargazers_count": 232,
     "open_issues_count": 4,
     "forks_count": 13
   },
@@ -19,13 +19,13 @@
   },
   {
     "full_name": "cesanta/elk",
-    "stargazers_count": 1188,
+    "stargazers_count": 1190,
     "open_issues_count": 0,
     "forks_count": 40
   },
   {
     "full_name": "keiya01/react-performance-testing",
-    "stargazers_count": 226,
+    "stargazers_count": 228,
     "open_issues_count": 7,
     "forks_count": 6
   },
@@ -43,9 +43,9 @@
   },
   {
     "full_name": "vercel/hyper",
-    "stargazers_count": 37174,
+    "stargazers_count": 37178,
     "open_issues_count": 734,
-    "forks_count": 3078
+    "forks_count": 3076
   },
   {
     "full_name": "springload/react-accessible-headings",
@@ -69,25 +69,25 @@
     "full_name": "stryker-mutator/stryker-js",
     "stargazers_count": 2026,
     "open_issues_count": 86,
-    "forks_count": 189
+    "forks_count": 188
   },
   {
     "full_name": "ramda/ramda",
-    "stargazers_count": 21338,
+    "stargazers_count": 21339,
     "open_issues_count": 337,
-    "forks_count": 1360
+    "forks_count": 1361
   },
   {
     "full_name": "npm/documentation",
     "stargazers_count": 23,
-    "open_issues_count": 7,
+    "open_issues_count": 8,
     "forks_count": 14
   },
   {
     "full_name": "google/zx",
-    "stargazers_count": 23406,
+    "stargazers_count": 23430,
     "open_issues_count": 9,
-    "forks_count": 459
+    "forks_count": 461
   },
   {
     "full_name": "open-sauced/open-sauced",
@@ -97,21 +97,21 @@
   },
   {
     "full_name": "statelyai/xstate",
-    "stargazers_count": 17815,
+    "stargazers_count": 17830,
     "open_issues_count": 225,
-    "forks_count": 808
+    "forks_count": 809
   },
   {
     "full_name": "MicrosoftEdge/MSEdgeExplainers",
-    "stargazers_count": 955,
+    "stargazers_count": 956,
     "open_issues_count": 76,
     "forks_count": 138
   },
   {
     "full_name": "davatron5000/awesome-standalones",
-    "stargazers_count": 777,
+    "stargazers_count": 784,
     "open_issues_count": 12,
-    "forks_count": 30
+    "forks_count": 31
   },
   {
     "full_name": "montagejs/collections",
@@ -121,7 +121,7 @@
   },
   {
     "full_name": "tc39/proposal-built-in-modules",
-    "stargazers_count": 823,
+    "stargazers_count": 824,
     "open_issues_count": 41,
     "forks_count": 30
   },
@@ -139,9 +139,9 @@
   },
   {
     "full_name": "microsoft/Power-Fx",
-    "stargazers_count": 2130,
-    "open_issues_count": 22,
-    "forks_count": 123
+    "stargazers_count": 2191,
+    "open_issues_count": 23,
+    "forks_count": 125
   },
   {
     "full_name": "apparition47/MailTrackerBlocker",
@@ -151,7 +151,7 @@
   },
   {
     "full_name": "lobsters/lobsters",
-    "stargazers_count": 3084,
+    "stargazers_count": 3086,
     "open_issues_count": 147,
     "forks_count": 673
   },
@@ -175,7 +175,7 @@
   },
   {
     "full_name": "typestack/class-validator",
-    "stargazers_count": 6741,
+    "stargazers_count": 6746,
     "open_issues_count": 287,
     "forks_count": 515
   }
