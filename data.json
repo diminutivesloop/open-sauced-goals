@@ -1,62 +1,62 @@
 [
   {
     "full_name": "discourse/discourse",
-    "stargazers_count": 34351,
-    "open_issues_count": 37,
+    "stargazers_count": 34357,
+    "open_issues_count": 41,
     "forks_count": 7423
   },
   {
     "full_name": "ohmyzsh/ohmyzsh",
-    "stargazers_count": 135665,
+    "stargazers_count": 135707,
     "open_issues_count": 645,
-    "forks_count": 23046
+    "forks_count": 23053
   },
   {
     "full_name": "scullyio/scully",
     "stargazers_count": 2294,
-    "open_issues_count": 101,
+    "open_issues_count": 102,
     "forks_count": 236
   },
   {
     "full_name": "microsoft/TypeScript",
-    "stargazers_count": 75536,
-    "open_issues_count": 5329,
+    "stargazers_count": 75617,
+    "open_issues_count": 5328,
     "forks_count": 9885
   },
   {
     "full_name": "storybookjs/storybook",
-    "stargazers_count": 65794,
-    "open_issues_count": 1551,
-    "forks_count": 6696
+    "stargazers_count": 65807,
+    "open_issues_count": 1542,
+    "forks_count": 6700
   },
   {
     "full_name": "Homebrew/brew",
-    "stargazers_count": 29661,
-    "open_issues_count": 54,
-    "forks_count": 6801
+    "stargazers_count": 29669,
+    "open_issues_count": 53,
+    "forks_count": 6798
   },
   {
     "full_name": "VSCodeVim/Vim",
-    "stargazers_count": 9626,
-    "open_issues_count": 1127,
-    "forks_count": 1014
+    "stargazers_count": 9629,
+    "open_issues_count": 1116,
+    "forks_count": 1015
   },
   {
     "full_name": "microsoft/vscode",
-    "stargazers_count": 123517,
-    "open_issues_count": 5156,
-    "forks_count": 20600
+    "stargazers_count": 123602,
+    "open_issues_count": 5167,
+    "forks_count": 20605
   },
   {
     "full_name": "cli/cli",
-    "stargazers_count": 26118,
-    "open_issues_count": 428,
-    "forks_count": 2962
+    "stargazers_count": 26123,
+    "open_issues_count": 431,
+    "forks_count": 2968
   },
   {
     "full_name": "mdn/yari",
     "stargazers_count": 580,
-    "open_issues_count": 274,
+    "open_issues_count": 275,
     "forks_count": 195
   }
 ]
