@@ -1,8 +1,8 @@
 [
   {
     "full_name": "theKashey/react-focus-lock",
-    "stargazers_count": 893,
-    "open_issues_count": 56,
+    "stargazers_count": 896,
+    "open_issues_count": 58,
     "forks_count": 56
   },
   {
@@ -13,25 +13,25 @@
   },
   {
     "full_name": "sbmpost/AutoRaise",
-    "stargazers_count": 264,
+    "stargazers_count": 267,
     "open_issues_count": 12,
     "forks_count": 16
   },
   {
     "full_name": "ossf/oss-vulnerability-guide",
     "stargazers_count": 37,
-    "open_issues_count": 5,
+    "open_issues_count": 4,
     "forks_count": 10
   },
   {
     "full_name": "cesanta/elk",
-    "stargazers_count": 1242,
+    "stargazers_count": 1253,
     "open_issues_count": 0,
     "forks_count": 48
   },
   {
     "full_name": "keiya01/react-performance-testing",
-    "stargazers_count": 246,
+    "stargazers_count": 247,
     "open_issues_count": 6,
     "forks_count": 7
   },
@@ -44,14 +44,14 @@
   {
     "full_name": "accessibilitysupported/a11ysupport.io",
     "stargazers_count": 195,
-    "open_issues_count": 33,
+    "open_issues_count": 34,
     "forks_count": 23
   },
   {
     "full_name": "vercel/hyper",
-    "stargazers_count": 37656,
+    "stargazers_count": 37671,
     "open_issues_count": 743,
-    "forks_count": 3119
+    "forks_count": 3122
   },
   {
     "full_name": "springload/react-accessible-headings",
@@ -61,39 +61,39 @@
   },
   {
     "full_name": "rcoh/angle-grinder",
-    "stargazers_count": 2238,
+    "stargazers_count": 2242,
     "open_issues_count": 23,
-    "forks_count": 51
+    "forks_count": 53
   },
   {
     "full_name": "true-myth/true-myth",
-    "stargazers_count": 435,
+    "stargazers_count": 437,
     "open_issues_count": 5,
-    "forks_count": 17
+    "forks_count": 16
   },
   {
     "full_name": "stryker-mutator/stryker-js",
-    "stargazers_count": 2050,
-    "open_issues_count": 89,
-    "forks_count": 192
+    "stargazers_count": 2051,
+    "open_issues_count": 88,
+    "forks_count": 193
   },
   {
     "full_name": "ramda/ramda",
-    "stargazers_count": 21540,
-    "open_issues_count": 272,
-    "forks_count": 1371
+    "stargazers_count": 21552,
+    "open_issues_count": 268,
+    "forks_count": 1374
   },
   {
     "full_name": "npm/documentation",
     "stargazers_count": 33,
-    "open_issues_count": 8,
+    "open_issues_count": 10,
     "forks_count": 20
   },
   {
     "full_name": "google/zx",
-    "stargazers_count": 25761,
-    "open_issues_count": 13,
-    "forks_count": 522
+    "stargazers_count": 26193,
+    "open_issues_count": 14,
+    "forks_count": 531
   },
   {
     "full_name": "open-sauced/open-sauced",
@@ -103,13 +103,13 @@
   },
   {
     "full_name": "statelyai/xstate",
-    "stargazers_count": 18526,
+    "stargazers_count": 18568,
     "open_issues_count": 230,
-    "forks_count": 855
+    "forks_count": 856
   },
   {
     "full_name": "MicrosoftEdge/MSEdgeExplainers",
-    "stargazers_count": 998,
+    "stargazers_count": 1009,
     "open_issues_count": 79,
     "forks_count": 146
   },
@@ -127,7 +127,7 @@
   },
   {
     "full_name": "tc39/proposal-built-in-modules",
-    "stargazers_count": 831,
+    "stargazers_count": 832,
     "open_issues_count": 41,
     "forks_count": 30
   },
@@ -139,15 +139,15 @@
   },
   {
     "full_name": "yairEO/tagify",
-    "stargazers_count": 2405,
+    "stargazers_count": 2409,
     "open_issues_count": 42,
-    "forks_count": 349
+    "forks_count": 350
   },
   {
     "full_name": "microsoft/Power-Fx",
-    "stargazers_count": 2596,
-    "open_issues_count": 26,
-    "forks_count": 156
+    "stargazers_count": 2598,
+    "open_issues_count": 28,
+    "forks_count": 158
   },
   {
     "full_name": "apparition47/MailTrackerBlocker",
@@ -157,9 +157,9 @@
   },
   {
     "full_name": "lobsters/lobsters",
-    "stargazers_count": 3126,
+    "stargazers_count": 3129,
     "open_issues_count": 152,
-    "forks_count": 698
+    "forks_count": 699
   },
   {
     "full_name": "getify/eslint-plugin-proper-ternary",
