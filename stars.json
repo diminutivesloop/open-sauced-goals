@@ -1,43 +1,43 @@
 [
   {
     "full_name": "theKashey/react-focus-lock",
-    "stargazers_count": 912,
+    "stargazers_count": 913,
     "open_issues_count": 63,
     "forks_count": 57
   },
   {
     "full_name": "simbathesailor/use-what-changed",
-    "stargazers_count": 360,
+    "stargazers_count": 362,
     "open_issues_count": 25,
     "forks_count": 9
   },
   {
     "full_name": "sbmpost/AutoRaise",
-    "stargazers_count": 295,
+    "stargazers_count": 296,
     "open_issues_count": 9,
     "forks_count": 17
   },
   {
     "full_name": "ossf/oss-vulnerability-guide",
-    "stargazers_count": 47,
-    "open_issues_count": 4,
+    "stargazers_count": 51,
+    "open_issues_count": 7,
     "forks_count": 12
   },
   {
     "full_name": "cesanta/elk",
-    "stargazers_count": 1290,
+    "stargazers_count": 1295,
     "open_issues_count": 3,
     "forks_count": 49
   },
   {
     "full_name": "keiya01/react-performance-testing",
-    "stargazers_count": 255,
+    "stargazers_count": 256,
     "open_issues_count": 6,
     "forks_count": 9
   },
   {
     "full_name": "scottaohara/accessible_components",
-    "stargazers_count": 453,
+    "stargazers_count": 454,
     "open_issues_count": 0,
     "forks_count": 11
   },
@@ -49,21 +49,21 @@
   },
   {
     "full_name": "vercel/hyper",
-    "stargazers_count": 37896,
-    "open_issues_count": 754,
-    "forks_count": 3157
+    "stargazers_count": 37925,
+    "open_issues_count": 757,
+    "forks_count": 3160
   },
   {
     "full_name": "springload/react-accessible-headings",
-    "stargazers_count": 22,
+    "stargazers_count": 21,
     "open_issues_count": 0,
     "forks_count": 1
   },
   {
     "full_name": "rcoh/angle-grinder",
-    "stargazers_count": 2295,
+    "stargazers_count": 2298,
     "open_issues_count": 23,
-    "forks_count": 55
+    "forks_count": 56
   },
   {
     "full_name": "true-myth/true-myth",
@@ -73,45 +73,45 @@
   },
   {
     "full_name": "stryker-mutator/stryker-js",
-    "stargazers_count": 2068,
-    "open_issues_count": 86,
+    "stargazers_count": 2077,
+    "open_issues_count": 85,
     "forks_count": 194
   },
   {
     "full_name": "ramda/ramda",
-    "stargazers_count": 21678,
-    "open_issues_count": 155,
-    "forks_count": 1376
+    "stargazers_count": 21701,
+    "open_issues_count": 149,
+    "forks_count": 1378
   },
   {
     "full_name": "npm/documentation",
     "stargazers_count": 35,
-    "open_issues_count": 9,
-    "forks_count": 23
+    "open_issues_count": 10,
+    "forks_count": 26
   },
   {
     "full_name": "google/zx",
-    "stargazers_count": 28700,
-    "open_issues_count": 9,
-    "forks_count": 615
+    "stargazers_count": 28887,
+    "open_issues_count": 6,
+    "forks_count": 621
   },
   {
     "full_name": "open-sauced/open-sauced",
-    "stargazers_count": 589,
+    "stargazers_count": 592,
     "open_issues_count": 29,
-    "forks_count": 183
+    "forks_count": 185
   },
   {
     "full_name": "statelyai/xstate",
-    "stargazers_count": 18963,
-    "open_issues_count": 252,
-    "forks_count": 881
+    "stargazers_count": 19018,
+    "open_issues_count": 251,
+    "forks_count": 884
   },
   {
     "full_name": "MicrosoftEdge/MSEdgeExplainers",
     "stargazers_count": 1022,
     "open_issues_count": 81,
-    "forks_count": 147
+    "forks_count": 148
   },
   {
     "full_name": "davatron5000/awesome-standalones",
@@ -121,7 +121,7 @@
   },
   {
     "full_name": "montagejs/collections",
-    "stargazers_count": 1997,
+    "stargazers_count": 2001,
     "open_issues_count": 72,
     "forks_count": 202
   },
@@ -139,27 +139,27 @@
   },
   {
     "full_name": "yairEO/tagify",
-    "stargazers_count": 2470,
-    "open_issues_count": 43,
-    "forks_count": 351
+    "stargazers_count": 2472,
+    "open_issues_count": 45,
+    "forks_count": 353
   },
   {
     "full_name": "microsoft/Power-Fx",
-    "stargazers_count": 2626,
-    "open_issues_count": 37,
-    "forks_count": 165
+    "stargazers_count": 2627,
+    "open_issues_count": 36,
+    "forks_count": 166
   },
   {
     "full_name": "apparition47/MailTrackerBlocker",
-    "stargazers_count": 999,
+    "stargazers_count": 1000,
     "open_issues_count": 10,
     "forks_count": 21
   },
   {
     "full_name": "lobsters/lobsters",
-    "stargazers_count": 3144,
-    "open_issues_count": 137,
-    "forks_count": 701
+    "stargazers_count": 3147,
+    "open_issues_count": 138,
+    "forks_count": 703
   },
   {
     "full_name": "getify/eslint-plugin-proper-ternary",
@@ -169,7 +169,7 @@
   },
   {
     "full_name": "jvns/dns-lookup",
-    "stargazers_count": 222,
+    "stargazers_count": 223,
     "open_issues_count": 0,
     "forks_count": 14
   },
