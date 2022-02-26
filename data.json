@@ -1,62 +1,62 @@
 [
   {
     "full_name": "discourse/discourse",
-    "stargazers_count": 35066,
-    "open_issues_count": 48,
-    "forks_count": 7563
+    "stargazers_count": 35084,
+    "open_issues_count": 46,
+    "forks_count": 7564
   },
   {
     "full_name": "ohmyzsh/ohmyzsh",
-    "stargazers_count": 141102,
-    "open_issues_count": 575,
-    "forks_count": 23674
+    "stargazers_count": 141228,
+    "open_issues_count": 576,
+    "forks_count": 23688
   },
   {
     "full_name": "scullyio/scully",
-    "stargazers_count": 2360,
+    "stargazers_count": 2361,
     "open_issues_count": 107,
     "forks_count": 239
   },
   {
     "full_name": "microsoft/TypeScript",
-    "stargazers_count": 78248,
-    "open_issues_count": 5435,
-    "forks_count": 10264
+    "stargazers_count": 78347,
+    "open_issues_count": 5441,
+    "forks_count": 10274
   },
   {
     "full_name": "storybookjs/storybook",
-    "stargazers_count": 68941,
-    "open_issues_count": 1681,
-    "forks_count": 7123
+    "stargazers_count": 69003,
+    "open_issues_count": 1689,
+    "forks_count": 7137
   },
   {
     "full_name": "Homebrew/brew",
-    "stargazers_count": 31089,
-    "open_issues_count": 34,
-    "forks_count": 7250
+    "stargazers_count": 31133,
+    "open_issues_count": 28,
+    "forks_count": 7264
   },
   {
     "full_name": "VSCodeVim/Vim",
-    "stargazers_count": 10031,
-    "open_issues_count": 1180,
+    "stargazers_count": 10050,
+    "open_issues_count": 1186,
     "forks_count": 1064
   },
   {
     "full_name": "microsoft/vscode",
-    "stargazers_count": 128014,
-    "open_issues_count": 5694,
-    "forks_count": 21649
+    "stargazers_count": 128136,
+    "open_issues_count": 5748,
+    "forks_count": 21667
   },
   {
     "full_name": "cli/cli",
-    "stargazers_count": 27348,
-    "open_issues_count": 369,
-    "forks_count": 3379
+    "stargazers_count": 27386,
+    "open_issues_count": 376,
+    "forks_count": 3392
   },
   {
     "full_name": "mdn/yari",
-    "stargazers_count": 618,
-    "open_issues_count": 246,
+    "stargazers_count": 619,
+    "open_issues_count": 240,
     "forks_count": 232
   }
 ]
