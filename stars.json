@@ -1,19 +1,19 @@
 [
   {
     "full_name": "theKashey/react-focus-lock",
-    "stargazers_count": 926,
-    "open_issues_count": 69,
+    "stargazers_count": 929,
+    "open_issues_count": 68,
     "forks_count": 59
   },
   {
     "full_name": "simbathesailor/use-what-changed",
-    "stargazers_count": 385,
+    "stargazers_count": 387,
     "open_issues_count": 25,
     "forks_count": 9
   },
   {
     "full_name": "sbmpost/AutoRaise",
-    "stargazers_count": 318,
+    "stargazers_count": 320,
     "open_issues_count": 10,
     "forks_count": 19
   },
@@ -25,7 +25,7 @@
   },
   {
     "full_name": "cesanta/elk",
-    "stargazers_count": 1315,
+    "stargazers_count": 1316,
     "open_issues_count": 1,
     "forks_count": 49
   },
@@ -37,7 +37,7 @@
   },
   {
     "full_name": "scottaohara/accessible_components",
-    "stargazers_count": 456,
+    "stargazers_count": 457,
     "open_issues_count": 0,
     "forks_count": 11
   },
@@ -49,8 +49,8 @@
   },
   {
     "full_name": "vercel/hyper",
-    "stargazers_count": 38138,
-    "open_issues_count": 778,
+    "stargazers_count": 38162,
+    "open_issues_count": 767,
     "forks_count": 3171
   },
   {
@@ -61,57 +61,57 @@
   },
   {
     "full_name": "rcoh/angle-grinder",
-    "stargazers_count": 2325,
+    "stargazers_count": 2329,
     "open_issues_count": 23,
     "forks_count": 56
   },
   {
     "full_name": "true-myth/true-myth",
-    "stargazers_count": 472,
+    "stargazers_count": 474,
     "open_issues_count": 11,
     "forks_count": 19
   },
   {
     "full_name": "stryker-mutator/stryker-js",
-    "stargazers_count": 2110,
-    "open_issues_count": 77,
+    "stargazers_count": 2112,
+    "open_issues_count": 72,
     "forks_count": 197
   },
   {
     "full_name": "ramda/ramda",
-    "stargazers_count": 21838,
-    "open_issues_count": 143,
-    "forks_count": 1388
+    "stargazers_count": 21860,
+    "open_issues_count": 144,
+    "forks_count": 1391
   },
   {
     "full_name": "npm/documentation",
-    "stargazers_count": 49,
+    "stargazers_count": 50,
     "open_issues_count": 8,
-    "forks_count": 153
+    "forks_count": 176
   },
   {
     "full_name": "google/zx",
-    "stargazers_count": 30200,
-    "open_issues_count": 11,
-    "forks_count": 670
+    "stargazers_count": 30273,
+    "open_issues_count": 12,
+    "forks_count": 674
   },
   {
     "full_name": "open-sauced/open-sauced",
-    "stargazers_count": 631,
-    "open_issues_count": 27,
-    "forks_count": 206
+    "stargazers_count": 632,
+    "open_issues_count": 19,
+    "forks_count": 208
   },
   {
     "full_name": "statelyai/xstate",
-    "stargazers_count": 19381,
-    "open_issues_count": 245,
-    "forks_count": 915
+    "stargazers_count": 19410,
+    "open_issues_count": 246,
+    "forks_count": 916
   },
   {
     "full_name": "MicrosoftEdge/MSEdgeExplainers",
-    "stargazers_count": 1050,
+    "stargazers_count": 1051,
     "open_issues_count": 77,
-    "forks_count": 152
+    "forks_count": 153
   },
   {
     "full_name": "davatron5000/awesome-standalones",
@@ -121,13 +121,13 @@
   },
   {
     "full_name": "montagejs/collections",
-    "stargazers_count": 2008,
+    "stargazers_count": 2010,
     "open_issues_count": 73,
     "forks_count": 201
   },
   {
     "full_name": "tc39/proposal-built-in-modules",
-    "stargazers_count": 851,
+    "stargazers_count": 852,
     "open_issues_count": 41,
     "forks_count": 30
   },
@@ -139,27 +139,27 @@
   },
   {
     "full_name": "yairEO/tagify",
-    "stargazers_count": 2506,
-    "open_issues_count": 48,
+    "stargazers_count": 2507,
+    "open_issues_count": 50,
     "forks_count": 355
   },
   {
     "full_name": "microsoft/Power-Fx",
-    "stargazers_count": 2640,
-    "open_issues_count": 48,
-    "forks_count": 183
+    "stargazers_count": 2643,
+    "open_issues_count": 47,
+    "forks_count": 186
   },
   {
     "full_name": "apparition47/MailTrackerBlocker",
-    "stargazers_count": 1001,
+    "stargazers_count": 1002,
     "open_issues_count": 11,
-    "forks_count": 21
+    "forks_count": 22
   },
   {
     "full_name": "lobsters/lobsters",
-    "stargazers_count": 3183,
-    "open_issues_count": 142,
-    "forks_count": 702
+    "stargazers_count": 3191,
+    "open_issues_count": 143,
+    "forks_count": 703
   },
   {
     "full_name": "getify/eslint-plugin-proper-ternary",
